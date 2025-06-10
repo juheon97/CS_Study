@@ -74,11 +74,11 @@
 |                                | :white_check_mark:   | [주소와 송수신지 유형에 따른 전송 방식](네트워크/전송-방식.md)                        |
 |                                | :white_check_mark:   | [네트워크 미시적으로 살펴보기 (1) 프로토콜](네트워크/프로토콜.md)                     |
 |                                | :white_check_mark:   | [네트워크 미시적으로 살펴보기 (2) 네트워크 참조 모델](네트워크/네트워크-참조-모델.md) |
-|                                | :white_large_square: | [네트워크 미시적으로 살펴보기 (3) 캡슐화와 역캡슐화](네트워크/캡슐화와-역캡슐화.md)   |
-|                                | :white_large_square: | [OSI 7계층 TCPIP 4계층은 사실 아무것도 하지 않는다](네트워크/계층-모델.md)            |
-|                                | :white_large_square: | [트래픽과 네트워크 성능 지표](네트워크/성능-지표.md)                                  |
-| 3 물리 계층과 데이터 링크 계층 | :white_large_square: | [개발자와 인프라](네트워크/개발자와-인프라.md)                                        |
-|                                | :white_large_square: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체.md)                       |
+|                                | :white_check_mark: | [네트워크 미시적으로 살펴보기 (3) 캡슐화와 역캡슐화](네트워크/캡슐화와-역캡슐화.md)   |
+|                                | :white_check_mark: | [OSI 7계층 TCPIP 4계층은 사실 아무것도 하지 않는다](네트워크/계층-모델.md)            |
+|                                | :white_check_mark: | [트래픽과 네트워크 성능 지표](네트워크/성능-지표.md)                                  |
+| 3 물리 계층과 데이터 링크 계층 | :white_check_mark: | [개발자와 인프라](네트워크/개발자와-인프라.md)                                        |
+|                                | :white_check_mark: | [이더넷 (1) 이더넷과 연결 매체](네트워크/이더넷과-연결-매체.md)                       |
 |                                | :white_large_square: | [이더넷 (2) 이더넷 프레임](네트워크/이더넷-프레임.md)                                 |
 |                                | :white_large_square: | [NIC와 케이블](네트워크/NIC와-케이블.md)                                              |
 |                                | :white_large_square: | [허브](네트워크/허브.md)                                                              |
