@@ -83,10 +83,10 @@
 |                                | :white_check_mark: | [NIC와 케이블](네트워크/NIC와-케이블.md)                                              |
 |                                | :white_check_mark: | [허브](네트워크/허브.md)                                                              |
 |                                | :white_check_mark: | [스위치](네트워크/스위치.md)                                                          |
-|                                | :white_large_square: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기.md)                |
-| 4 네트워크 계층                | :white_large_square: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능.md)                                |
-|                                | :white_large_square: | [IP](네트워크/IP.md)                                                                  |
-|                                | :white_large_square: | [ARP](네트워크/ARP.md)                                                                |
+|                                | :white_check_mark: | [네트워크 장비 직접 관찰하기](네트워크/네트워크-장비-직접-관찰하기.md)                |
+| 4 네트워크 계층                | :white_check_mark: | [네트워크 계층의 기능](네트워크/네트워크-계층-기능.md)                                |
+|                                | :white_check_mark: | [IP](네트워크/IP.md)                                                                  |
+|                                | :white_check_mark: | [ARP](네트워크/ARP.md)                                                                |
 |                                | :white_large_square: | [단편화를 피하는 방법](네트워크/단편화-방지.md)                                       |
 |                                | :white_large_square: | [IP 주소의 구조와 클래스풀 주소체계](네트워크/IP-주소-구조.md)                        |
 |                                | :white_large_square: | [클래스리스 주소 체계와 서브네팅](네트워크/클래스리스-주소.md)                        |
